@@ -1,0 +1,16 @@
+{
+  "name": "web-api",
+  "version": "0.0.1",
+  "description": "Milestone 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "formidable": "^3.5.2"
+  }
+}
